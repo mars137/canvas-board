@@ -1,0 +1,9 @@
+{
+   "name": "canvas-board",
+   "description": "Collaborative drawing canvas",
+   "author": "Atif",
+   "dependencies" : {
+      "express": "4.x",
+      "socket.io": "*"
+   }
+}
