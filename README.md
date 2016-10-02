@@ -1,2 +1,2 @@
-# canvas-bpard
+# canvas-board
 Interactive board using websockets
